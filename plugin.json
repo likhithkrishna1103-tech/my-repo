@@ -1,0 +1,16 @@
+{
+  "packageName": "dev.igris.stars.hindmoviez",
+  "name": "hindmoviez",
+  "version": 1,
+  "baseUrl": "https://hindmoviez.cafe",
+  "description": "enjoy movies in 4k.",
+  "authors": [
+    "igris"
+  ],
+  "languages": [
+    "en" , "hi"
+  ],
+  "categories": [
+    "All"
+  ]
+}
