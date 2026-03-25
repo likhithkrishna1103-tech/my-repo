@@ -4,6 +4,6 @@
   "description": "SkyStream plugins repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/likhithkrishna1103-tech/Hindmoviez/refs/heads/main/Plugins.json"
+    "https://raw.githubusercontent.com/likhithkrishna1103-tech/my-repo/refs/heads/main/plugin.json"
   ]
 }
